@@ -1,0 +1,31 @@
+body{
+	background-color:rgb(162,157,156);
+}
+.myhead{
+	background-color:gray;
+	height:190px;
+	padding-top:30px;
+}
+.myInformation{
+	float:right;
+}
+.myTitle{
+	color:white;
+	font-size:50px;
+	font-family:"Algerian";
+	font-style:italic;
+	padding-left:10px;
+		opacity:0.4
+}
+.ispm{
+	padding-left:660px
+}
+.menu{
+	float:right;
+}
+.navebar{
+	background-color:gray;
+}
+b{
+	opacity:0.7
+}
